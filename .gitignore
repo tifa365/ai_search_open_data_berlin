@@ -2,3 +2,7 @@
 .DS_Store
 _streamlit/.env
 _streamlit/app.log
+data_archive/
+requirements (copy).txt
+01_mdv_search (another copy).ipynb
+.vscode/

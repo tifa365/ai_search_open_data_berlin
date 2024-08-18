@@ -7,10 +7,14 @@ seaborn
 pandarallel
 python-dotenv
 beautifulsoup4
-sentence-transformers
 scikit-learn
 spacy
+sentence-transformers
 pacmap
 bokeh
 openai
 weaviate-client
+pyarrow
+# we use the small model for now!
+spacy>=3.0.0,<4.0.0
+https://github.com/explosion/spacy-models/releases/download/de_core_news_sm-3.7.0/de_core_news_sm-3.7.0-py3-none-any.whl
