@@ -1,4 +1,4 @@
-# 🦄 AI Search Open Data Berlin
+# 🐻 AI Search Open Data Berlin
 
 **Search semantically, lexically, and multilingually in Berlin's Open Data catalog.**
 
